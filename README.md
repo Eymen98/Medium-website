@@ -1,2 +1,2 @@
 # Medium-website
-Medium website with Bootstrap
+Medium website with Bootstrap.
